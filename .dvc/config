@@ -1,0 +1,4 @@
+[core]
+    remote = moumitabiswas/mlops_dvc_new/data
+['remote "moumitabiswas/mlops_dvc_new/data"']
+    url = https://github.com/moumitabiswas/mlops_dvc_new.git
